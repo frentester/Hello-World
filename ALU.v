@@ -18,4 +18,5 @@ module ALU (A, B, SEL, OUT);
       3'b111: OUT = ~A;
     endcase
 
+	
 endmodule
